@@ -1,4 +1,0 @@
-pyrogram<2.0.0
-pyromod
-peewee
-aiohttp
